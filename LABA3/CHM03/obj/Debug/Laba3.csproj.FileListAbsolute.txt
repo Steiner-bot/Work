@@ -1,0 +1,10 @@
+C:\Users\bertk\Desktop\LABA3\CHM03\bin\Debug\CHM03.exe.config
+C:\Users\bertk\Desktop\LABA3\CHM03\bin\Debug\CHM03.exe
+C:\Users\bertk\Desktop\LABA3\CHM03\bin\Debug\CHM03.pdb
+C:\Users\bertk\Desktop\LABA3\CHM03\obj\Debug\Laba3.csprojAssemblyReference.cache
+C:\Users\bertk\Desktop\LABA3\CHM03\obj\Debug\LABA3.Form1.resources
+C:\Users\bertk\Desktop\LABA3\CHM03\obj\Debug\CHM03.Properties.Resources.resources
+C:\Users\bertk\Desktop\LABA3\CHM03\obj\Debug\Laba3.csproj.GenerateResource.cache
+C:\Users\bertk\Desktop\LABA3\CHM03\obj\Debug\Laba3.csproj.CoreCompileInputs.cache
+C:\Users\bertk\Desktop\LABA3\CHM03\obj\Debug\CHM03.exe
+C:\Users\bertk\Desktop\LABA3\CHM03\obj\Debug\CHM03.pdb
